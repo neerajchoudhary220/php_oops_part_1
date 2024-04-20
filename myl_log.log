@@ -1,0 +1,1 @@
+[2024-04-19T08:09:28.922444+00:00] my_logger.INFO: Error: Object of class app\Helper\Fruits could not be converted to string in /home/pc/Public/neeraj/php/oops/index.php:18 Stack trace: #0 {main} [] []
